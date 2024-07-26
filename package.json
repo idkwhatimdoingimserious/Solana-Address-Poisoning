@@ -1,0 +1,21 @@
+{
+  "name": "solana-tool",
+  "version": "1.0.0",
+  "description": "A Solana address poisoning tool with a menu-based interface",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --no-deprecation src/main.js"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.30.0",
+    "axios": "^0.21.1",
+    "bs58": "^4.0.1",
+    "chalk": "^4.1.2",
+    "clear": "^0.1.0",
+    "helius-sdk": "^1.3.4",
+    "inquirer": "^8.1.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
