@@ -12,3 +12,6 @@ SIMILAR ADDRESSES - WHERE WE STORE PAIRS THAT HAVE THE SAME STARTING 4 CHARACTER
 
 
 TARGET - PEOPLE WHO HAVE INTERACTED WITH ACTIVE ADDRESSES THAT WE HAVE A SIMILAR ADDRESS TO
+
+
+currently building the automatic sender. need help with the storing of active accounts. currently it is kind of shit, a lot of vote accounts.
